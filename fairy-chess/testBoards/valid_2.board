@@ -1,0 +1,23 @@
+% allocations
+r:2
+k:1
+q:7
+p:10
+-----
+% officers
+r q q q q k q q q r
+% pawns
+p p p p p p p p p p
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+% pawns
+P P P P P P P P P P
+% officers
+R Q Q Q Q K Q Q Q R
+-----
+% status line
+w:++++:0:0

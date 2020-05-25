@@ -1,0 +1,19 @@
+% Exceeding officer allocation at g1
+p:5
+d:5
+k:1
+r:2
+q:7
+-----
+r q q q q k q q q r
+p p p p p d d d d d
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . Q . . . . .
+. . . . . . . . Q Q
+P P P P P D D D D D
+R Q Q Q Q K Q . Q R
+-----
+w:++++:0:0

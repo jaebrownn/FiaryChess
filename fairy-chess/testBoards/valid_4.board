@@ -1,0 +1,21 @@
+% Promotions
+r:2
+k:1
+n:2
+b:4
+q:1
+p:5
+d:5
+-----
+r n b b q k b b n r
+p p p . . d d . d d
+. . . . . B . . . .
+R . q q . . . . Q .
+. . . . . . . n . .
+. Q . B . . . . . .
+. . B . . . . N . .
+. . . . . . . . . .
+. P . . P . . . . D
+R N B B Q K B B N R
+-----
+w:++++:0:0

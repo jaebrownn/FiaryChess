@@ -1,0 +1,18 @@
+% Sum of pawns == 11 (line 3)
+p:5
+d:6
+k:1
+r:2
+-----
+r n b b q k b b n r
+p p p p p d d d d d
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+P P P P P D D D D D
+R N B B Q K B B N R
+-----
+w:++++:0:0

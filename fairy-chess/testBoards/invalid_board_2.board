@@ -1,0 +1,21 @@
+% Illegal piece at f7
+p:5
+d:5
+r:2
+n:2
+b:4
+q:1
+k:1
+-----
+r n b b q k . b n r
+p p p p p d d d d d
+. . . . . . . . . .
+. . . . . asdf . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+P P P P P D D D D D
+R N B B Q K B B N R
+-----
+w:++++:0:0
